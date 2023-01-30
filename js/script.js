@@ -13,7 +13,6 @@ document.addEventListener("DOMContentLoaded", () => {
   //     }, 500)
   // });
   // cursor follower
-
   document.querySelector("#switch").addEventListener("click", () => {
     // console.log(document.getElementById('switchTheme').getElementsByTagName('small'));
     document.body.classList.toggle("switchNow");
